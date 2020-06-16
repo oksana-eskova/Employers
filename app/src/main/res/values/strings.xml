@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Employers</string>
+    <string name="name_label">Имя:</string>
+    <string name="last_name_label">Фамилия:</string>
+    <string name="birthday_label">Дата рождения:</string>
+    <string name="age_label">Возраст:</string>
+    <string name="speciality_label">Специальность:</string>
+    <string-array name="spinner_values">
+        <item>Менеджер</item>
+        <item>Программист</item>
+    </string-array>
+</resources>
